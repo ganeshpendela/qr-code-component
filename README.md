@@ -22,7 +22,7 @@ Developed a QR code component solution using basic html and css styles.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://65cd6e09d2a5fb4f5e14a4e4--ganesh-qr-code-component.netlify.app/
 
 ## My process
 
